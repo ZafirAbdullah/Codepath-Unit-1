@@ -1,6 +1,6 @@
 # Codepath-Unit-1
 
-file:///Users/zafirabdullah/Desktop/GIF/Lab%201%20GIF%20.gif
+
 
 # Required Features
 Create a Guesser screen that uses stack views and auto layout to configure the UI for different screen sizes and dimensions
