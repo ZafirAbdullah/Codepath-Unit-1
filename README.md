@@ -1,5 +1,6 @@
 # Codepath-Unit-1
 
+![Lab 1 GIF ](https://user-images.githubusercontent.com/108569152/222528278-3c872283-8cb4-4ebc-9179-7b10295eaf9a.gif)
 
 
 # Required Features
